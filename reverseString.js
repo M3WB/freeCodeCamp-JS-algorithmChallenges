@@ -1,4 +1,4 @@
-// Basic Algorithms Challenge #2
+// Basic Algorithms Exercise #2
 // Write an algorithm that takes a string input by the user and outputs the reverse of that string
 
 function reverseString(str) {

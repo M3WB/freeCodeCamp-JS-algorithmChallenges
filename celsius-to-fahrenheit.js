@@ -1,4 +1,4 @@
-// Basic Algorithms Challenge #1
+// Basic Algorithms Exercise #1
 // Function to convert a temperature in celsius as a number that outputs temperature in fahrenheit as a number
 
 function convertToF(celsius) {
